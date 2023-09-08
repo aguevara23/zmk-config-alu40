@@ -41,10 +41,10 @@
 
         nav {
             bindings = <
-&trans            &trans        &trans            &trans          &trans  &trans  &trans  &kp N7      &kp N8         &kp N9         &kp N0       &kp BSPC
-&kp LEFT_COMMAND  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &trans  &trans  &trans  &kp CAPS    &kp LEFT       &kp DOWN       &kp UP       &kp RIGHT
-&trans            &trans        &trans            &trans          &trans  &trans  &trans  &kp INSERT  &kp HOME       &kp PAGE_DOWN  &kp PAGE_UP  &kp END
-&trans            &trans        &trans            &trans          &trans  &trans  &trans  &kp ENTER   &kp BACKSPACE  &kp DEL        &trans       &trans
+&kp LG(GRAVE)         &kp LG(LS(LEFT_BRACKET))  &kp LG(LS(RIGHT_BRACKET))  &kp LG(TAB)            &trans  &trans  &trans  &trans      &kp K_UNDO     &kp K_CUT      &kp K_COPY   &kp K_PASTE
+&kp LEFT_COMMAND      &kp LEFT_ALT              &kp LEFT_CONTROL           &kp LEFT_SHIFT         &trans  &trans  &trans  &kp CAPS    &kp LEFT       &kp DOWN       &kp UP       &kp RIGHT
+&kp LG(LEFT_BRACKET)  &trans                    &trans                     &kp LG(RIGHT_BRACKET)  &trans  &trans  &trans  &kp INSERT  &kp HOME       &kp PAGE_DOWN  &kp PAGE_UP  &kp END
+&trans                &trans                    &trans                     &trans                 &trans  &trans  &trans  &kp ENTER   &kp BACKSPACE  &kp DEL        &trans       &trans
             >;
         };
 
