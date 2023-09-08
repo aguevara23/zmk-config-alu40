@@ -27,7 +27,7 @@
 &kp Q               &kp W           &kp F        &kp P             &kp B       &trans  &trans  &kp J      &kp L              &kp U                &kp Y            &kp SQT
 &mt LEFT_COMMAND A  &mt LEFT_ALT R  &mt LCTRL S  &mt LEFT_SHIFT T  &kp G       &trans  &trans  &kp M      &mt RIGHT_SHIFT N  &mt RIGHT_CONTROL E  &mt RIGHT_ALT I  &mt RIGHT_COMMAND O
 &kp Z               &kp X           &kp C        &kp D             &kp V       &trans  &trans  &kp K      &kp H              &kp COMMA            &kp PERIOD       &kp SLASH
-&trans              &trans          &lt 1 TAB    &lt 2 BACKSPACE   &kp ESCAPE  &mo 8   &mo 7   &lt 4 RET  &lt 5 SPACE        &lt 6 DEL            &trans           &trans
+&trans              &trans          &lt 1 TAB    &lt 2 BACKSPACE   &kp ESCAPE  &mo 7   &mo 8   &lt 4 RET  &lt 5 SPACE        &lt 6 DEL            &trans           &trans
             >;
         };
 
